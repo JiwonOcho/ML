@@ -1,9 +1,5 @@
-# ML-DL
-Various ML/DL examples will be uploaded on this repository.
+Various ML/DL examples will be uploaded to this repository.
 
-The NewsSummarization.ipynb placed on 6 is a summarizing programming using the 'sumy' module.
-The 'sumy' is for automatic summarization of text documents and HTML pages.
-if you want more detail, refer on 'https://pypi.python.org/pypi/sumy/0.7.0'.
+The file NewsSummarization.ipynb, located in folder 6, is a text summarization program utilizing the 'sumy' module. 'sumy' is designed for the automatic summarization of text documents and HTML pages. For more detailed information, please refer to 'https://pypi.python.org/pypi/sumy/0.7.0'.
 
 Thank you :)
-
